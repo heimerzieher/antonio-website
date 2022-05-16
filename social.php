@@ -1,4 +1,4 @@
-<?php $selected = 'cv'; include 'header.php';?>
+<?php $selected = 'social'; include 'header.php';?>
 
 Insta
 

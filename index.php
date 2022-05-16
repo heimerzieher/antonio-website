@@ -10,7 +10,7 @@
         <link href="css/main.css" rel="stylesheet" />
     </head>
     <body>
-        <div class="container" id="mainContainer" style="margin-top: 7%; margin-left: 20%; margin-right: 20%; width: 60%;">
+        <div class="container" id="mainContainer">
             <small>Antonio Freiles</small>
 
             <nav class="navbar navbar-expand-lg bg-light">

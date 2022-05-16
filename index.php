@@ -13,35 +13,7 @@
         <div class="container" id="mainContainer">
             <small>Antonio Freiles</small>
 
-            <nav class="navbar navbar-expand-lg">
-                <div class="container-fluid">
-                    <a class="navbar-brand" href="#">
-                        <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo.svg" alt="" width="30" height="24">
-                    </a>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                            <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="#">CV</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">TEACHING</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">AOI</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">EMAIL</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">SOCIAL</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </nav>
+            <?php $selected = 'cv'; include 'navbar.php'; ?>
 
             <p>Hello! I am a PhD student in Philosophy at <a href="https://thecollege.syr.edu/philosophy/"> Syracuse University</a>. Before coming to Syracuse, I studied in Lugano where I completed my BA at <a href="https://isfi.ch">ISFI</a> and my MA under the supervision of <a href="https://claudiocalosi.xyz"> Claudio Calosi</a> and <a href="http://www.columbia.edu/~av72/"> Achille Varzi </a> at <a href="https://www.usi.ch/en/education/master/philosophy">USI</a>.</p>
             <p>Here, you can find out about my <a href="./research.html">research</a>, CV and contact.</p>

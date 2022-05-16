@@ -18,7 +18,8 @@ jobs:
           sudo apt update && sudo apt install -y php
           mkdir -pv build
           php index.php > build/index.html
-          echo Token ${{ secrets.GITHUB_TOKEN }}
+          ls build
+          cat build/index.html
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.3.3
@@ -27,8 +28,8 @@ jobs:
           branch: gh-pages # The branch the action should deploy to.
           folder: build # The folder the action should deploy.
 
-      - name: Cleanup Generated Branch
-        uses: dawidd6/action-delete-branch@v3.1.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branches: gh-pages
+#      - name: Cleanup Generated Branch
+#        uses: dawidd6/action-delete-branch@v3.1.0
+#        with:
+#          github_token: ${{ secrets.GITHUB_TOKEN }}
+#          branches: gh-pages

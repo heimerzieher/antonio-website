@@ -16,7 +16,7 @@
     <tbody>
         <tr>
             <td scope="row">A</td>
-            <td>TODO</td>
+            <td>The great Project (<a href='pdf/pdf-test.pdf'>Abstract</a>)</td>
             <td>TODO</td>
             <td>TODO</td>
             <td>TODO</td>

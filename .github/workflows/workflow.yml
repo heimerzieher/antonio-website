@@ -21,7 +21,7 @@ jobs:
           do
               php ${i}.php > build/${i}.html
           done
-          mv js css build/
+          mv js css img build/
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.3.3

@@ -10,8 +10,8 @@
         <link href="css/main.css" rel="stylesheet" />
     </head>
     <body>
-        <div class="container" id="mainContainer">
-            <small>Name Castame</small>
+        <div class="container" id="mainContainer" style="margin-top: 7%; margin-left: 20%; margin-right: 20%; width: 60%;">
+            <small>Antonio Freiles</small>
 
             <nav class="navbar navbar-expand-lg bg-light">
                 <div class="container-fluid">
@@ -43,11 +43,8 @@
                 </div>
             </nav>
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eu dictum risus. Donec viverra porttitor nisl ut sodales. Sed et sollicitudin justo, sed ultrices augue. Proin sed posuere mi, sed dictum justo. Integer eget augue sed massa elementum interdum. Duis non nisl suscipit purus rutrum viverra. Nullam venenatis dapibus sapien et aliquet. Nulla sagittis urna pharetra dolor mollis, vitae lacinia tellus auctor. In rutrum lorem non semper suscipit. In eget lorem nisl. Praesent leo nulla, feugiat ac finibus ac, iaculis nec neque. Aenean nec auctor eros, commodo luctus massa. Aenean sit amet nisl et velit sagittis aliquam maximus nec eros. Sed sagittis libero sit amet tortor tristique fringilla. Nam non mauris lobortis, sagittis mauris id, scelerisque est.</p>
-            <p>Nulla tempor, augue vel euismod vehicula, lorem quam maximus leo, at finibus eros ex quis massa. Vivamus posuere orci ornare, commodo orci sit amet, commodo sapien. Donec arcu felis, elementum tempor congue ac, rhoncus ac urna. Phasellus nibh leo, interdum eget laoreet quis, ullamcorper nec ipsum. Fusce maximus non leo eget vulputate. Quisque viverra in lectus sodales blandit. Nulla et massa vitae magna porttitor malesuada. Mauris maximus lacus ac arcu porta, vitae sodales arcu finibus. Vivamus nec magna vel ante vestibulum vulputate id ac turpis.</p>
-            <p>In malesuada, massa vel imperdiet venenatis, augue neque finibus nibh, sed facilisis lectus justo eget arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus lacinia mi at viverra. Quisque sodales fermentum enim vitae consequat. Integer lorem justo, luctus facilisis imperdiet vel, ultricies et purus. Ut vel efficitur odio. In placerat mi a lacus molestie mattis. Morbi sagittis a tortor ac mollis. Maecenas facilisis bibendum est, pretium feugiat ante cursus eget. Nullam placerat tincidunt convallis. Sed dapibus massa sed ipsum gravida blandit. Maecenas eget cursus velit. Quisque semper eu nisi in malesuada. Pellentesque vitae rutrum odio.</p>
-            <p>Vestibulum posuere lectus dui, ut pretium purus rutrum et. Sed in augue ut lacus vulputate tristique. Aliquam vel magna congue, auctor ex sed, fringilla turpis. Nam hendrerit ultricies enim, ac placerat ligula pellentesque a. Suspendisse quis interdum sem. Nam ultricies diam sed condimentum fermentum. Ut libero dui, lobortis vitae dui sed, consequat efficitur quam. Suspendisse potenti. Aliquam et semper tortor.</p>
-            <p>Phasellus lacinia dui vitae rutrum ultricies. In rutrum leo et dui venenatis congue. Aenean pretium fringilla porttitor. Donec eget blandit arcu. Aliquam commodo mauris eget neque viverra, sodales facilisis tellus bibendum. Pellentesque ultrices ante libero, eu mattis massa varius non. Phasellus a est elementum, rhoncus arcu hendrerit, dictum diam. Nulla nec ligula quis erat vulputate egestas. Proin at risus at leo imperdiet mollis. Morbi ex sapien, malesuada id ullamcorper in, venenatis et nunc. Nulla vulputate urna ultrices quam laoreet malesuada. Etiam ultrices nulla sed molestie aliquam. Vestibulum eleifend et neque eu vehicula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus et finibus lectus.</p>
+            <p>Hello! I am a PhD student in Philosophy at <a href="https://thecollege.syr.edu/philosophy/"> Syracuse University</a>. Before coming to Syracuse, I studied in Lugano where I completed my BA at <a href="https://isfi.ch">ISFI</a> and my MA under the supervision of <a href="https://claudiocalosi.xyz"> Claudio Calosi</a> and <a href="http://www.columbia.edu/~av72/"> Achille Varzi </a> at <a href="https://www.usi.ch/en/education/master/philosophy">USI</a>.</p>
+            <p>Here, you can find out about my <a href="./research.html">research</a>, CV and contact.</p>
 
             <table class="table">
                 <thead>

@@ -1,4 +1,4 @@
-            <nav class="navbar navbar-expand-lg">
+            <nav class="navbar navbar-expand-lg shadow-lg p-3 mb-5 rounded">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="index.html">
                         <img src="img/picture.jpg" alt="" width="30" height="24">

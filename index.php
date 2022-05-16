@@ -21,11 +21,11 @@
             <table class="table">
                 <thead>
                     <tr>
-                        <th scope="col">PROJECTS</th>
-                        <th scope="col">JOURNAL / PRESS</th>
-                        <th scope="col">YEAR</th>
-                        <th scope="col">CO-AUTHORS</th>
-                        <th scope="col">CATEGORY</th>
+                        <th scope="col">Projects</th>
+                        <th scope="col">Journal / Press</th>
+                        <th scope="col">Year</th>
+                        <th scope="col">Co-Authors</th>
+                        <th scope="col">Category</th>
                     </tr>
                 </thead>
                 <tbody>

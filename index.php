@@ -1,4 +1,4 @@
-<?php $selected = 'cv'; include 'header.php';?>
+<?php $selected = 'index'; include 'header.php';?>
 
 <p>Hello! I am a PhD student in Philosophy at <a href="https://thecollege.syr.edu/philosophy/"> Syracuse University</a>. Before coming to Syracuse, I studied in Lugano where I completed my BA at <a href="https://isfi.ch">ISFI</a> and my MA under the supervision of <a href="https://claudiocalosi.xyz"> Claudio Calosi</a> and <a href="http://www.columbia.edu/~av72/"> Achille Varzi </a> at <a href="https://www.usi.ch/en/education/master/philosophy">USI</a>.</p>
 <p>Here, you can find out about my <a href="/research.html">research</a>, CV and contact.</p>

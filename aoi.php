@@ -1,4 +1,4 @@
-<?php $selected = 'cv'; include 'header.php';?>
+<?php $selected = 'aoi'; include 'header.php';?>
 
 My AOI's
 

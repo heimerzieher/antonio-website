@@ -1,6 +1,34 @@
 #mainContainer {
-    margin-top: 7%; 
-    margin-left: 20%; 
-    margin-right: 20%; 
-    width: 60%;
+    margin-top: 7%;
+}
+
+
+@media (min-width: 1400px) {
+#mainContainer {
+    max-width: 60%;
+}
+}
+
+@media (min-width: 1200px) {
+#mainContainer {
+    max-width: 60%;
+}
+}
+
+@media (min-width: 992px) {
+#mainContainer {
+    max-width: 960px;
+}
+}
+
+@media (min-width: 768px) {
+#mainContainer {
+    max-width: 720px;
+}
+}
+
+@media (min-width: 576px) {
+#mainContainer {
+    max-width: 540px;
+}
 }

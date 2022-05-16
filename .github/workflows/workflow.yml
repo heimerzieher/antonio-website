@@ -17,7 +17,10 @@ jobs:
         run: |
           sudo apt update && sudo apt install -y php
           mkdir -pv build
-          php index.php > build/index.html
+          for i in aoi cv email index social teaching
+          do
+              php ${i}.php > build/${i}.html
+          done
           mv js css build/
 
       - name: Deploy 🚀

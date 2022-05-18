@@ -1,7 +1,23 @@
 <?php $selected = 'index'; include 'header.php';?>
 
+<div class="d-flex">
+
+<div class="flex-grow-1 ms-3">
+
 <p>Hello! I am a PhD student in Philosophy at <a href="https://thecollege.syr.edu/philosophy/"> Syracuse University</a>. Before coming to Syracuse, I studied in Lugano where I completed my BA at <a href="https://isfi.ch">ISFI</a> and my MA under the supervision of <a href="https://claudiocalosi.xyz"> Claudio Calosi</a> and <a href="http://www.columbia.edu/~av72/"> Achille Varzi </a> at <a href="https://www.usi.ch/en/education/master/philosophy">USI</a>.</p>
 <p>Here, you can find out about my <a href="/research.html">research</a>, CV and contact.</p>
+</div>
+
+<div class="flex-shrink-0">
+    <div class="card">
+    <img src="img/picture.jpg" class="card-img-top" height="100">
+    <div class="card-body">
+      <p class="card-text">Antonio Freiles</p>
+    </div>
+  </div>
+  </div>
+</div>
+
 
 <table class="table">
     <thead>
@@ -51,5 +67,6 @@
         </tr>
     </tbody>
 </table>
+
 
 <?php include 'footer.php'; ?>

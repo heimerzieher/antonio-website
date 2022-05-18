@@ -10,7 +10,7 @@
 
 <div class="flex-shrink-0">
     <div class="card">
-    <img src="img/picture.jpg" class="card-img-top" height="100">
+    <img src="img/picture.jpg" class="card-img-top" style="max-width: 150px;">
     <div class="card-body">
       <p class="card-text">Antonio Freiles</p>
     </div>

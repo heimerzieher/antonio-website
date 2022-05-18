@@ -23,12 +23,6 @@ jobs:
           done
           mv js css img pdf build/
 
-      - name: Cleanup Generated Branch
-        uses: dawidd6/action-delete-branch@v3.1.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branches: gh-pages
-
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:

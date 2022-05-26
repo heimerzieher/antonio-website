@@ -2,6 +2,13 @@
     margin-top: 7%;
 }
 
+#pictureContainer {
+    max-width: 170px;
+    float:right;
+    margin-right: 7%;
+    margin-top: 10%;
+}
+
 @media (min-width: 576px) {
 #mainContainer {
     max-width: 540px;

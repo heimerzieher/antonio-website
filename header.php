@@ -10,6 +10,17 @@
         <link href="css/main.css" rel="stylesheet" />
     </head>
     <body>
+        <?php if($selected == 'index') { ?>
+        <div class="container" id="pictureContainer">
+            <div class="card">
+                <img src="img/picture.jpg" class="card-img-top" style="max-width: 150px;">
+                <div class="card-body">
+                    <p class="card-text">Antonio Freiles</p>
+                </div>
+            </div>
+        </div>
+        <?php }?>
+
         <div class="container" id="mainContainer">
             <small>Antonio Freiles</small>
             <?php include 'navbar.php';?>

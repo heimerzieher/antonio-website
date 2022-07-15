@@ -21,6 +21,6 @@
         </div>
         <?php }?>
 
-        <div class="container" id="mainContainer">
-            <small>Antonio Freiles</small>
+        <div class="container shadow-lg p-3 mb-5 bg-white rounded" id="mainContainer">
+            <h1>Antonio Freiles</h1>
             <?php include 'navbar.php';?>

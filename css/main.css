@@ -1,5 +1,10 @@
+body {
+    background-color: #d9d9d9;
+    font-family:  Palatino, URW Palladio L, serif;
+}
 #mainContainer {
     margin-top: 7%;
+    background-color: #ffffff;
 }
 
 #pictureContainer {
@@ -41,5 +46,5 @@
 
 .navbar
 {
-    background-color: #eaf6ff;
+    background-color: #cdcbcb;
 }
